@@ -207,7 +207,7 @@ lowest_val_loss = np.inf
 
 t0 = time.time()
 
-while epoch < -10 and val_loss_tracker < 15:
+while epoch < 300 and val_loss_tracker < 15:
     epoch_loss = 0
     for j in range(total_batch):
         model.set_trn_mask(trn_mask[:, j * args.batchSize : (j+1) * args.batchSize]. to(dev))
