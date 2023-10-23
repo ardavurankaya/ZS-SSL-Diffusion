@@ -7,5 +7,4 @@ Training and reconstruction can be performed by running the main.py file.
 
 Link to the Abstract: https://cds.ismrm.org/protected/23MPresentations/abstracts/0831.html
 
-
-
+Pitch Presentation: [pitch_presentation_0831.pdf](https://github.com/ardavurankaya/ZS-SSL-Diffusion/files/13071071/pitch_presentation_0831.pdf)
