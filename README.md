@@ -5,4 +5,7 @@ ZS-SSL-Diffusion extends the ZS-SSL framework introduced by Yaman et.al. to mult
 high acceleration rates.
 Training and reconstruction can be performed by running the main.py file. 
 
+Link to the Abstract: https://cds.ismrm.org/protected/23MPresentations/abstracts/0831.html
+
+
 
